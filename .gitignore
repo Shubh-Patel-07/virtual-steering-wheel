@@ -1,0 +1,7 @@
+# Local launcher and runtime cache (not needed in the GitHub repository)
+run.bat
+.mplconfig/
+
+# Python cache
+__pycache__/
+*.py[cod]

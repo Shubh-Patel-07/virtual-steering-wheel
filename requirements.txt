@@ -1,0 +1,5 @@
+# This project uses the legacy mp.solutions hands API.
+mediapipe==0.10.21
+opencv-contrib-python>=4.8.0,<5
+pynput>=1.7.6
+numpy>=1.24.0,<2
